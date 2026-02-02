@@ -5,3 +5,17 @@ def multiples_of_three():
             print(i)
 
 multiples_of_three()
+otput:
+12
+15
+18
+21
+24
+27
+30
+33
+36
+39
+42
+45
+48
